@@ -10,6 +10,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=solankidhruvraj&show_icons=true&locale=en&layout=compact" alt="solankidhruvraj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solankidhruvraj&show_icons=true&locale=en" alt="solankidhruvraj" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solankidhruvraj&" alt="solankidhruvraj" /></p>
