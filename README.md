@@ -43,10 +43,3 @@ A production-grade full-stack platform optimized for performance and scalability
 *Next.js, Node.js, TypeScript, MongoDB*
 A full-stack email interaction simulator designed to improve sender reputation.
 - **Key Features:** Secure role-based access, randomized cron jobs for natural user behavior simulation, and improved email deliverability metrics by 20%.
-
----
-
-## 📫 Connect with Me
-
-- **Email:** [dhruvrajsolanki37@gmail.com](mailto:dhruvrajsolanki37@gmail.com)
-- **Location:** Mumbai, India
