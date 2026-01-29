@@ -46,30 +46,6 @@ A full-stack email interaction simulator designed to improve sender reputation.
 
 ---
 
-## 💼 Experience
-
-**Associate Software Engineer** @ Accenture Solutions Pvt. Ltd.
-*Aug 2024 - Sep 2025*
-- Spearheaded full-stack development (React/Node).
-- Architected modular components and robust RESTful APIs.
-- Optimized application performance and resolved critical production issues.
-
-**SDE - 0 (Full Stack Developer)** @ Procedure Technologies
-*8 Weeks*
-- Engineered Next.js applications and scalable backend APIs.
-- Delivered feature integrations ahead of schedule, boosting productivity.
-
----
-
-## 🎓 Education
-
-**B.Tech in Artificial Intelligence & Machine Learning**
-*Shri Ramdeobaba College of Engineering & Management (2024)*
-- **Grade:** 8.73/10
-- **Certification:** AWS Academy Graduate (Cloud Foundations)
-
----
-
 ## 📫 Connect with Me
 
 - **Email:** [dhruvrajsolanki37@gmail.com](mailto:dhruvrajsolanki37@gmail.com)
