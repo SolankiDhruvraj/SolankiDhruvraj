@@ -2,7 +2,7 @@
 
 ## 🚀 Software Engineer | Full Stack Developer
 
-I am a results-driven Software Engineer with over 1 year of hands-on experience in building scalable web applications. My expertise lies in full-stack development using **React.js**, **Next.js**, **Node.js**, and **Cloud Technologies**.
+I am a results-driven Software Engineer with hands-on experience in building scalable web applications. My expertise lies in full-stack development using **React.js**, **Next.js**, **Node.js**, and **Cloud Technologies**.
 
 ---
 
